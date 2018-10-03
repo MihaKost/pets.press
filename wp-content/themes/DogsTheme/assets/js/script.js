@@ -1,0 +1,1 @@
+// $( "#customAclassInWp_nav_menu li a" ).addClass( "nav-link" );
